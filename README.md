@@ -5,17 +5,9 @@
 
 ## 💻 Monitec
 
-O integrador RMS foi desenvolvido para integrar o módulo Importação de Movimentos do produto RMS-Retail Cloud, tudo que é feito no ponto de venda(PDV) sobe para o concentrador loja e matriz, e o integrador-rms, recebe os movimentos de venda, sangria, nfce e sat e saida operador. 
+Uma plataforma de monitoramento de funções e equipamentos de tecnologias 
 
-Para fazer a integração entre os produtos é usado o protocolo de comunicação SOAP que permite representar tipos de dados em XML, na integração com o módulo de Importação de movimentos da TOTVs, estão integrados os seguintes métodos:
-                 
-- EnviarMovimentos: Método responsável por importar os dados de um ou mais movimentos
-- EnviarSangrias: Método responsável por importar sangrias.
-- EnviarNFCeSAT: Método responsável por importar NFC-e e SAT.
-- EnviarSaidaOperador: Envia as saídas de operadores para serem importadas na base de dados do RMS Retail.
-
-
-
+🚧 Em construção... 🚧
 
 ## Tópicos
 
