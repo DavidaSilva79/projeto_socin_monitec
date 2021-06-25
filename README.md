@@ -1,11 +1,16 @@
 
 <p align="center"> 
       <img src="https://avatars.githubusercontent.com/u/48964967?v=4 width="350px" height="400px"/>
+<div>                                                                                                 MONITEC
+      <img src="https://static.wixstatic.com/media/b62a2d_c2df19675c714549aaa69b335bf37e13~mv2.png/v1/fill/w_188,h_188,al_c,q_85,usm_0.66_1.00_0.01/monitec_2.webp" alt="monitec_2.png" style="width: 94px; height: 94px; object-fit: cover; object-position: 50% 50%;">  
+      <span style="font-size:29px"><span style="color:#000000">MONITEC</span></span>
+                                                              </div>                                                                                               
 <p align="center"> 
 
 ## 💻 Monitec
 
-Uma plataforma de monitoramento de funções e equipamentos de tecnologias 
+Uma plataforma de monitoramento de funções e equipamentos de tecnologia que busca ampliar a visão de gestores de TI sobre o sistema e suas funcionalidades, oferecendo métricas para a tomada de decisão.
+Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros
 
 🚧 Em construção... 🚧
 
