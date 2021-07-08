@@ -37,7 +37,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
   </a> </li>
   <li><a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/Spring_Boot_2.5.1-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" alt="spring-boot">
   </a></li>
   <li><a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/scss-E4405F.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="scss">
