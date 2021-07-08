@@ -10,7 +10,7 @@
 
 Uma plataforma de monitoramento de funções e equipamentos de tecnologia que busca ampliar a visão de gestores de TI sobre o sistema e suas funcionalidades, oferecendo métricas para a tomada de decisão.
                  
-Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros
+Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros.
 
 
 ## Tópicos
