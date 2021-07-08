@@ -40,13 +40,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </a></li>
   <li><a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/scss-E4405F.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="scss">
-  </a></li>
-   <li><a href="https://projectlombok.org/">
-    <img src="https://img.shields.io/badge/Lombok-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
-  </a></li>
- <li><a href="https://www.w3.org/TR/soap/">
-    <img src="https://img.shields.io/badge/soap-8BC0D0.svg?&style=for-the-badge&logo=&logoColor=white" alt="soap">
-  </a></li>                                 
+  </a></li>                               
  </ul>                                                                                                                                           
 
 
