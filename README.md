@@ -30,8 +30,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <ul> 
-  <li><a href="https://www.java.com">
-    <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
+  <li><a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
   </a></li>
   <li><a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/MySQL_v1.7-316192?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
