@@ -33,8 +33,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <li><a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
   </a></li>
-  <li><a href="https://www.mysql.com">
-    <img src="https://img.shields.io/badge/MySQL_v1.7-316192?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
   </a> </li>
   <li><a href="https://spring.io/projects/spring-boot">
     <img src="https://img.shields.io/badge/Spring_Boot_2.5.1-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
