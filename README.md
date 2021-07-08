@@ -39,8 +39,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <li><a href="https://spring.io/projects/spring-boot">
     <img src="https://img.shields.io/badge/Spring_Boot_2.5.1-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
   </a></li>
-  <li><a href="https://maven.apache.org/">
-    <img src="https://img.shields.io/badge/Apache Maven-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
+  <li><a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/scss-E4405F.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="scss">
   </a></li>
    <li><a href="https://projectlombok.org/">
     <img src="https://img.shields.io/badge/Lombok-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
