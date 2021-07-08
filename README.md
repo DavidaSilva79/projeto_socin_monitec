@@ -16,7 +16,7 @@ Com um design baseado nas melhores práticas de UX fornece dados em tempo real p
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
-- [Como executar o e-conect](#-Como-executar-o-monitec)
+- [Como executar o monitec](#-Como-executar-o-monitec)
 - [Features](#-Features)
 - [Contribuidores](#-Contribuidores)
 - [Autor](#-Autor)
