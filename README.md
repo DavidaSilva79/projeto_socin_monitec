@@ -71,7 +71,7 @@ https://github.com/socin-econect/integrador-rms/blob/master/doc/integrador_docx.
 
 ## 💫 Features
 
-O conteúdo referente as features do e-econect se encontra no local  do link abaixo.
+O conteúdo referente as features do monitec se encontra no local  do link abaixo.
 
 https://socincompany.atlassian.net/wiki/spaces/E
 
