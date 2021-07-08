@@ -39,8 +39,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" alt="spring-boot">
   </a></li>
   <li><a href="https://sass-lang.com/">
-    <img src="https://img.shields.io/badge/scss-E4405F.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="scss">
-  </a></li>                               
+    <img src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  </a></li>                                                                                                                      
+  <li><a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/AngularJS-E23237?&style=for-the-badge&logo=angular&logoColor=white" alt="angular">
+  </a></li>         
  </ul>                                                                                                                                           
 
 
