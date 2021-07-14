@@ -11,6 +11,23 @@
 Uma plataforma de monitoramento de funções e equipamentos de tecnologia que busca ampliar a visão de gestores de TI sobre o sistema e suas funcionalidades, oferecendo métricas para a tomada de decisão.
                  
 Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros.
+                 
+Carga: Acompanhamento de fluxo de carga do PDV.
+
+Hardware: Gerenciamento funcional de Hardware
+
+Integrações: Controle e acompanhamento das integrações 
+
+Movimento: Follow Up e Gerenciamento de vendas.
+
+NFCE: Controle e monitoramento de cupons fiscais.
+                 
+SAT: Controle e monitoramento de de cupons fiscais.
+                 
+Serviços: Gestão de dados online. 
+                 
+Versões: Releases, concentrador, matriz, pdvs  módulos. 
+
 
 
 ## Tópicos
