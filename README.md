@@ -51,17 +51,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina o e-conect, Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem,
-além disto é bom ter um editor para trabalhar com o código como Eclipse ou o Spring Tools Suite em ambos é necessario instalar e configurar o lombok.
+Antes de começar, você vai precisar ter instalado em sua máquina o e-conect o que inclui(Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem), e para executar o monitec é necessário  o Node.js, NPM, e Angular CLI além disto é bom ter um editor para trabalhar com o código como Eclipse e VScode ou Sublime.
 
 
 ### 🎲 Executando o monitec
 
-Abaixo se encontro o link o para o manual de montagem de ambiente e execução.
-
-Observação: Após importar o projeto na IDE no diretório integrador-rms/ aplicacao/src/main/resources/ no arquivo application.properties configurar a conexão com o banco do concentrador e outros parâmetros se necessário.
-                                                                                                                 
-https://github.com/socin-econect/integrador-rms/blob/master/doc/integrador_docx.pdf
+🚧 Em construção... 🚧
                                                                                                                  
 
 ### 🎁 Geração de executavel produção
