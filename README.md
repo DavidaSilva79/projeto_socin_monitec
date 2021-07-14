@@ -85,8 +85,7 @@ Normalmente, o NPM será instalado com o próprio Node.js. No entanto, podemos a
 
 ### 🎁 Geração de executavel produção
                                                                                                                  
-- Fazer o build usando o mvn clean package
-- Pegar o arquivo jar presente na pasta integradortotvs\aplicacao\target integrador-rms-1.0.0.jar
+🚧 Em construção... 🚧
 
 ## 💫 Features
 
