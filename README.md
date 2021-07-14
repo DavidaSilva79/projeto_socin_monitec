@@ -72,7 +72,6 @@ Node.js é um ambiente de servidor de código aberto que usa JavaScript no servi
                                                                                                               
 2. Atualizar NPM
 Normalmente, o NPM será instalado com o próprio Node.js. No entanto, podemos atualizá-lo para a versão mais recente usando o comando abaixo.
-Às vezes é opcional, mas eu recomendo que você faça.    
 
 sudo npm install npm@latest -g                                                       
                                                                                                                  
