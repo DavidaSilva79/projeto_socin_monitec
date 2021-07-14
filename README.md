@@ -67,17 +67,18 @@ Etapas de instalação
 1. Instale o Node.js
 Node.js é um ambiente de servidor de código aberto que usa JavaScript no servidor.
  
-  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
-  sudo apt-get install -y nodejs   
+  ```curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -```
+                                                                                                                 
+  ```sudo apt-get install -y nodejs```   
                                                                                                               
 2. Atualizar NPM
 Normalmente, o NPM será instalado com o próprio Node.js. No entanto, podemos atualizá-lo para a versão mais recente usando o comando abaixo.
 
-sudo npm install npm@latest -g                                                       
+```sudo npm install npm@latest -g```                                                      
                                                                                                                  
 3. Instale o Angular CLI    
                                                                                                                  
-sudo npm install -g @angular/cli
+```sudo npm install -g @angular/cli```
 
 🚧 Em construção... 🚧
                                                                                                                  
