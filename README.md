@@ -51,7 +51,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <ul> 
   <li><a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+    <img src="https://img.shields.io/badge/TypeScript_3.5.3-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
   </a></li>
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
@@ -63,13 +63,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white" alt="sass">
   </a></li>                                                                                                                      
   <li><a href="https://angular.io/">
-    <img src="https://img.shields.io/badge/AngularJS-E23237?&style=for-the-badge&logo=angular&logoColor=white" alt="angular">
+    <img src="https://img.shields.io/badge/AngularJS_8.2.13-E23237?&style=for-the-badge&logo=angular&logoColor=white" alt="angular">
   </a></li> 
-  <li><a href="https://angular.io/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="angular">
+  <li><a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node">
   </a></li> 
-  <li><a href="https://angular.io/">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="angular">
+  <li><a href="https://www.npmjs.com/">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
   </a></li>                                                                                                                          
  </ul>                                                                                                                                           
 
