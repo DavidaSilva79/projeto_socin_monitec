@@ -102,14 +102,22 @@ Normalmente, o NPM será instalado com o próprio Node.js. No entanto, podemos a
                                                                                                              
 4. Subindo o web manager
 
-No endereço `https://github.com/socin-econect/monitec/releases/` escolher uma versão do arquivo monitec_versao_.zip, baixar e descompactar o mesmo ,abrir o arquivo `conf/SQLAPIDataSource.properties` configurar a conexão com sua base de dados. Em seguida executar o arquivo web-manager.jar
+No endereço `https://github.com/socin-econect/monitec/releases/` escolher uma versão do arquivo monitec_versao_.zip baixar e descompactar o mesmo ,abrir o arquivo `conf/SQLAPIDataSource.properties` configurar a conexão com sua base de dados. Em seguida executar o arquivo web-manager.jar
 
                                                                                                              
 5. Development server
                                                                                                              
 Dentro da raiz do projeto monitec no terminal rode o comando `ng serve` para subir o servidor de desenvolvimento. Navegue ate o endereço `http://localhost:4200/`.Caso algum arquivo do condigo fonte for alterado a aplicação ira recarregar altomaticamente.
 
+Caso na hora de subir no terminal der algumas exceptions executar os comandos `npm install --save-dev @angular-devkit/build-angular`
+`npm install`
+`ng serve -o`
+                                                                                                             
+Na tela de acesso do monitec ir ate a engrenagem de configuração no canto superior direito e trocar a url para `http://localhost:9999/`.
 
+                                                                                                             
+
+6. 
                                                                                                              
 
 🚧 Em construção... 🚧
