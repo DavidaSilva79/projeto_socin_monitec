@@ -115,40 +115,20 @@ Caso na hora de subir no terminal der algumas exceptions executar os comandos `n
                                                                                                              
 Na tela de acesso do monitec ir ate a engrenagem de configuração no canto superior direito e trocar a url para `http://localhost:9999/`.
 
-                                                                                                             
+### 🎁 Geração de artefatos do monitec                                                                                                            
 
-6. 
-                                                                                                             
+6. Build
 
-🚧 Em construção... 🚧
-                                                                                                                 
+Para rodar a build e gerar os artefatos do projeto no terminal use o comando `ng build`. Os artefatos gerados são encontrados no diretório `dist/` do projeto monitec. Para uma build de produção use a flag `--pro`em seguida do comando `ng build`.
 
-### 🎁 Geração de artefatos do projeto
-                                                                                                                 
+Os artefatos gerados devem ser copiados para o diretório webapp do projeto baixado na sessão 4 deste tutorial.
+                                                                                                            
+7. Testes unitários
 
+No terminal execute o comando `ng test` para executar testes unitários via [Karma](https://karma-runner.github.io).
 
-
-Code scaffolding
-                                                                                                             
-```Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.```
-
-Build
-                                                                                                             
-```Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.```
-
-Running unit tests
-                                                                                                             
-```Run ng test to execute the unit tests via Karma.```
-
-Running end-to-end tests
-                                                                                                             
-```Run ng e2e to execute the end-to-end tests via Protractor.```
-
-Further help
-                                                                                                             
-```To get more help on the Angular CLI use ng help or go check out the Angular CLI README.```
-                                                                                                                 
-🚧 Em construção... 🚧
+8. Testes end-to-end
+No terminal execute o comando `ng e2e` para executar testes end-to-end via [Protractor](http://www.protractortest.org/).
 
 ## 💫 Features
 
