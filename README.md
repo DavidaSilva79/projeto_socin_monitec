@@ -7,7 +7,6 @@
 <p align="center"> 
 
 ## 💻 Monitec
-🚧 Em construção... 🚧
                  
 O monitec é uma plataforma de monitoramento de funções e equipamentos de tecnologia que busca ampliar a visão de gestores de TI sobre o sistema e suas funcionalidades, oferecendo métricas para a tomada de decisão.
                  
