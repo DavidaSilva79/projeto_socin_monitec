@@ -123,11 +123,12 @@ Para rodar a build e gerar os artefatos do projeto no terminal use o comando `ng
 
 Os artefatos gerados devem ser copiados para o diretório webapp do projeto baixado na sessão 4 deste tutorial.
                                                                                                             
-7. Testes unitários
+<h3>Testes unitários</h3>
 
 No terminal execute o comando `ng test` para executar testes unitários via [Karma](https://karma-runner.github.io).
 
-8. Testes end-to-end
+<h3>Testes end-to-end</h3>
+                                                                                                             
 No terminal execute o comando `ng e2e` para executar testes end-to-end via [Protractor](http://www.protractortest.org/).
 
 ## 💫 Features
