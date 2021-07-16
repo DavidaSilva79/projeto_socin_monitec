@@ -83,7 +83,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina o e-conect o
 
 ### 🎲 Executando o monitec
 
-Etapas de instalação
                                                                                                                  
 1. Instale o Node.js
 Node.js é um ambiente de servidor de código aberto que usa JavaScript no servidor.
@@ -101,14 +100,17 @@ Normalmente, o NPM será instalado com o próprio Node.js. No entanto, podemos a
                                                                                                                  
 ```sudo npm install -g @angular/cli```
 
+4. Development server
+                                                                                                             
+Dentro da raiz do projeto monitec no terminal rode o comando `ng serve` para subir um servidor de desenvolvimento. Navegue ate o endereço `http://localhost:4200/`. A aplicação ira carregar automaticamente se algum arquivo do condigo fonte for alterado.
+
 🚧 Em construção... 🚧
                                                                                                                  
 
 ### 🎁 Geração de executavel produção
                                                                                                                  
-Development server
-                                                                                                             
-```Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.```
+
+
 
 Code scaffolding
                                                                                                              
