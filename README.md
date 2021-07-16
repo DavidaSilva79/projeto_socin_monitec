@@ -9,9 +9,9 @@
 ## 💻 Monitec
 🚧 Em construção... 🚧
                  
-Uma plataforma de monitoramento de funções e equipamentos de tecnologia que busca ampliar a visão de gestores de TI sobre o sistema e suas funcionalidades, oferecendo métricas para a tomada de decisão.
+O monitec é uma plataforma de monitoramento de funções e equipamentos de tecnologia que busca ampliar a visão de gestores de TI sobre o sistema e suas funcionalidades, oferecendo métricas para a tomada de decisão.
                  
-Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros.
+Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros. O monitec pode monitorar os seguintes itens.
                  
                  
 <strong>Carga:</strong> Acompanhamento de fluxo de carga do PDV.
@@ -75,7 +75,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
                                                                                                              
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina o e-conect o que inclui(Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem), e para executar o monitec é necessário  o Node.js, NPM, e Angular CLI além disto é bom ter um editor para trabalhar com o código como Eclipse e VScode ou Sublime.
+Antes de começar, você vai precisar ter instalado em sua máquina o e-conect o que inclui(Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem), além disto é bom ter um editor para trabalhar com o código como Eclipse e VScode ou Sublime.
 
 
 ### 🎲 Executando o monitec
