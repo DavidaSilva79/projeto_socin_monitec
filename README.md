@@ -70,7 +70,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  </ul>                                                                                                                                           
 
 
-## 🚀 Como executar o monitec, gerar artefatos e testes.
+## 🚀 Como executar o monitec.
                                                                                                              
 ### Pré-requisitos
 
