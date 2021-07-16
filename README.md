@@ -74,8 +74,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
  </ul>                                                                                                                                           
 
 
-## 🚀 Como executar o monitec
-
+## 🚀 Como executar o monitec, gerar artefatos e testes.
+                                                                                                             
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina o e-conect o que inclui(Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem), e para executar o monitec é necessário  o Node.js, NPM, e Angular CLI além disto é bom ter um editor para trabalhar com o código como Eclipse e VScode ou Sublime.
@@ -99,15 +99,23 @@ Normalmente, o NPM será instalado com o próprio Node.js. No entanto, podemos a
 3. Instale o Angular CLI    
                                                                                                                  
 ```sudo npm install -g @angular/cli```
-
-4. Development server
                                                                                                              
-Dentro da raiz do projeto monitec no terminal rode o comando `ng serve` para subir um servidor de desenvolvimento. Navegue ate o endereço `http://localhost:4200/`. A aplicação ira carregar automaticamente se algum arquivo do condigo fonte for alterado.
+4. Subindo o web manager
+
+No endereço `https://github.com/socin-econect/monitec/releases/` escolher uma versão do arquivo monitec_versao_.zip, baixar e descompactar o mesmo ,abrir o arquivo `conf/SQLAPIDataSource.properties` configurar a conexão com sua base de dados. Em seguida executar o arquivo web-manager.jar
+
+                                                                                                             
+5. Development server
+                                                                                                             
+Dentro da raiz do projeto monitec no terminal rode o comando `ng serve` para subir o servidor de desenvolvimento. Navegue ate o endereço `http://localhost:4200/`.Caso algum arquivo do condigo fonte for alterado a aplicação ira recarregar altomaticamente.
+
+
+                                                                                                             
 
 🚧 Em construção... 🚧
                                                                                                                  
 
-### 🎁 Geração de executavel produção
+### 🎁 Geração de artefatos do projeto
                                                                                                                  
 
 
