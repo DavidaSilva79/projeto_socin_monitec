@@ -14,25 +14,22 @@ Uma plataforma de monitoramento de funções e equipamentos de tecnologia que bu
 Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros.
                  
                  
-Carga: Acompanhamento de fluxo de carga do PDV.
+<strong>Carga:</strong> Acompanhamento de fluxo de carga do PDV.
 
-Hardware: Gerenciamento funcional de Hardware
+<strong>Hardware:</strong>  Gerenciamento funcional de Hardware
 
-Integrações: Controle e acompanhamento das integrações 
+<strong>Integrações:</strong> Controle e acompanhamento das integrações 
 
-Movimento: Follow Up e Gerenciamento de vendas.
+<strong>Movimento:</strong> Follow Up e Gerenciamento de vendas.
 
-NFCE: Controle e monitoramento de cupons fiscais.
+<strong>NFCE:</strong> Controle e monitoramento de cupons fiscais.
                  
-SAT: Controle e monitoramento de de cupons fiscais.
+<strong>SAT:</strong> Controle e monitoramento de de cupons fiscais.
                  
-Serviços: Gestão de dados online. 
+<strong>Serviços:</strong> Gestão de dados online. 
                  
-Versões: Releases, concentrador, matriz, pdvs  módulos. 
+<strong>Versões:</strong> Releases, concentrador, matriz, pdvs  módulos. 
                  
-🚧 Em construção... 🚧                
-
-
 
 ## Tópicos
 
@@ -119,7 +116,7 @@ Na tela de acesso do monitec ir ate a engrenagem de configuração no canto supe
 
 6. Build
 
-Para rodar a build e gerar os artefatos do projeto no terminal use o comando `ng build`. Os artefatos gerados são encontrados no diretório `dist/` do projeto monitec. Para uma build de produção use a flag `--pro`em seguida do comando `ng build`.
+Para rodar a build e gerar os artefatos do projeto no terminal use o comando `ng build`. Os artefatos gerados são encontrados no diretório `dist/` do projeto monitec. Para uma build de produção use a flag `--prod`em seguida do comando `ng build`.
 
 Os artefatos gerados devem ser copiados para o diretório webapp do projeto baixado na sessão 4 deste tutorial.
                                                                                                             
