@@ -96,7 +96,7 @@ Normalmente, o NPM será instalado com o próprio Node.js. No entanto, podemos a
                                                                                                                  
 ```sudo npm install -g @angular/cli```
                                                                                                              
-4. Subindo o web manager
+4. Subindo o serviço web manager
 
 No endereço `https://github.com/socin-econect/monitec/releases/` escolher uma versão do arquivo monitec_versao_.zip baixar e descompactar o mesmo ,abrir o arquivo `conf/SQLAPIDataSource.properties` configurar a conexão com sua base de dados. Em seguida executar o arquivo web-manager.jar
 
@@ -117,7 +117,7 @@ Na tela de acesso do monitec ir ate a engrenagem de configuração no canto supe
 
 Para rodar a build e gerar os artefatos do projeto no terminal use o comando `ng build`. Os artefatos gerados são encontrados no diretório `dist/` do projeto monitec. Para uma build de produção use a flag `--prod`em seguida do comando `ng build`.
 
-Os artefatos gerados devem ser copiados para o diretório webapp do projeto baixado na sessão 4 deste tutorial.
+Os artefatos gerados devem ser copiados para o diretório webapp do projeto do serviço baixado na sessão 4 deste tutorial.
                                                                                                             
 <h3>Testes unitários</h3>
 
