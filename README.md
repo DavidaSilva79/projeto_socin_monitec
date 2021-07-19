@@ -125,6 +125,13 @@ No terminal execute o comando `ng test` para executar testes unitários via [Kar
 <h3>Testes end-to-end</h3>
                                                                                                              
 No terminal execute o comando `ng e2e` para executar testes end-to-end via [Protractor](http://www.protractortest.org/).
+                                                                                                             
+<h3>Code scaffolding</h3>
+                                                                                                             
+Execute no terminal o comando `ng generate component component-name` para gerar um novo componente. Você também pode usar o comando `ng generate directive|pipe|service|class|guard|interface|enum|module`.                                                                                                             
+<h3>Para mais ajuda</h3>
+                                                                                                             
+Para obter mais ajuda sobre o uso do Angular CLI no terminal digite `ng help` ou acesse [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).                                                                                                            
 
 ## 💫 Features
 
