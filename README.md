@@ -15,9 +15,9 @@ Com um design baseado nas melhores práticas de UX fornece dados em tempo real p
                  
 <strong>Carga:</strong> Acompanhamento de fluxo de carga do PDV.
 
-<strong>Hardware:</strong>  Gerenciamento funcional de Hardware
+<strong>Hardware:</strong>  Gerenciamento funcional de Hardware.
 
-<strong>Integrações:</strong> Controle e acompanhamento das integrações 
+<strong>Integrações:</strong> Controle e acompanhamento das integrações. 
 
 <strong>Movimento:</strong> Follow Up e Gerenciamento de vendas.
 
