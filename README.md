@@ -98,8 +98,7 @@ Normalmente, o NPM será instalado com o próprio Node.js. No entanto, podemos a
                                                                                                              
 4. Subindo o serviço web manager
 
-No endereço `https://github.com/socin-econect/monitec/releases/` escolher uma versão do arquivo monitec_versao_.zip baixar e descompactar o mesmo ,abrir o arquivo `conf/SQLAPIDataSource.properties` configurar a conexão com sua base de dados. Em seguida executar o arquivo web-manager.jar
-
+No endereço `https://github.com/socin-econect/monitec/releases/` escolher uma versão do arquivo monitec_versao_.zip baixar e descompactar o mesmo ,abrir o arquivo `conf/SQLAPIDataSource.properties` configurar a conexão com sua base de dados. Em seguida executar o arquivo web-manager.jar no terminal com comando o `java -jar web-manager.jar`.
                                                                                                              
 5. Development server
                                                                                                              
