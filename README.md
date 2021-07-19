@@ -103,7 +103,7 @@ No endereço `https://github.com/socin-econect/monitec/releases/` escolher uma v
                                                                                                              
 5. Development server
                                                                                                              
-Dentro da raiz do projeto monitec no terminal rode o comando `ng serve` para subir o servidor de desenvolvimento. Navegue ate o endereço `http://localhost:4200/`.Caso algum arquivo do condigo fonte for alterado a aplicação ira recarregar altomaticamente.
+Dentro da raiz do projeto monitec no terminal rode o comando `ng serve` para subir o servidor de desenvolvimento. Navegue ate o endereço `http://localhost:4200/`.Caso algum arquivo do condigo fonte for alterado a aplicação ira recarregar automaticamente.
 
 Caso na hora de subir no terminal der algumas exceptions executar os comandos `npm install --save-dev @angular-devkit/build-angular`
 `npm install`
